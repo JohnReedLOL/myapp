@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Skipping test.\""
+    "test": "echo \"Skipping test.\"",
     "start": "nodejs app.js"
   },
   "repository": {
